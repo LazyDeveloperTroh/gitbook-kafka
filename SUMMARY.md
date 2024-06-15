@@ -8,7 +8,7 @@
 
 ## 카프카란 <a href="#kafka" id="kafka"></a>
 
-* [구성요소](kafka-1/component.md)
+* [프로듀서](kafka-1/producer.md)
 
 ## 카프카 콘솔 실습 <a href="#console-practice" id="console-practice"></a>
 
