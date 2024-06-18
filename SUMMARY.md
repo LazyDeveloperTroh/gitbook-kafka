@@ -9,6 +9,7 @@
 ## 카프카란 <a href="#kafka" id="kafka"></a>
 
 * [프로듀서](kafka-1/producer.md)
+* [컨슈머](kafka-1/undefined.md)
 
 ## 카프카 콘솔 실습 <a href="#console-practice" id="console-practice"></a>
 
