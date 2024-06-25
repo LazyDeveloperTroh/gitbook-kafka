@@ -21,3 +21,8 @@
 * [주키퍼 실행](console-practice/zookeeper.md)
 * [컨슈머](console-practice/consumer/README.md)
   * [컨슈머 그룹](console-practice/consumer/group.md)
+
+## 카프카 커넥트 <a href="#connect" id="connect"></a>
+
+* [카프카 커넥트](connect/connect.md)
+* [Page 2](connect/page-2.md)
