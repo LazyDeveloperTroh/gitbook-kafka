@@ -25,4 +25,4 @@
 ## 카프카 커넥트 <a href="#connect" id="connect"></a>
 
 * [카프카 커넥트](connect/connect.md)
-* [Page 2](connect/page-2.md)
+* [커넥터](connect/connector.md)
